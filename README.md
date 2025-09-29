@@ -8,6 +8,9 @@ Este projeto é um web scraper em Python que coleta vagas de tecnologia diretame
 
 O desenvolvimento deste scraper foi um grande aprendizado em depuração de aplicações web. O desafio inicial de raspar um site carregado com JavaScript me levou a investigar a comunicação de rede da plataforma. Utilizando as Ferramentas de Desenvolvedor do Chrome, fui capaz de identificar, analisar e replicar a chamada de API exata que o site usa para buscar e exibir as vagas, resultando em um scraper muito mais rápido, eficiente e robusto.
 
+
+![Imagem do Scraper](https://github.com/Henriquegp1/meu-portfolio/blob/main/assets/carbon%20(2).png?raw=true)
+
 ## Tecnologias Utilizadas
 * Python
 * Requests (para fazer chamadas à API)
